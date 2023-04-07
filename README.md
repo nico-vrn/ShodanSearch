@@ -7,7 +7,7 @@ Il fournit des informations telles que le pays, la ville, l'organisation, les do
 # Comment utiliser
 1. Cloner le repository.
 
-2. Vous devez donc vous inscrire sur le site web de Shodan et obtenir une clé API. 
+2. Vous devez donc vous inscrire sur le site web de Shodan et obtenir une clé API  _[Documentation](https://developer.shodan.io/)_
 
 3. Cette clé API doit être ajoutée à la variable "key" dans le fichier script.js.
 
