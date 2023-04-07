@@ -1,5 +1,20 @@
 # ShodanSearch
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/nico-vrn/ShodanSearch">
+    <img src="images/logo.png" alt="Logo" width="100" height="80">
+  </a>
+
+  <h3 align="center">Shodan Search</h3>
+
+  <p align="center">
+    Recherche de nom de domaine ou IP
+    <br />
+   </p>
+</div>
+
 ShodanSearch est un programme en JavaScript qui utilise l'API Shodan pour effectuer des recherches sur des adresses IP et des noms de domaine. 
 
 Il fournit des informations telles que le pays, la ville, l'organisation, les domaines et les ports.
