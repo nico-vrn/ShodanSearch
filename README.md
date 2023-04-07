@@ -19,7 +19,7 @@ ShodanSearch est un programme en JavaScript qui utilise l'API Shodan pour effect
 
 Il fournit des informations telles que le pays, la ville, l'organisation, les domaines et les ports.
 
-# Comment utiliser
+## Comment utiliser
 1. Cloner le repository.
 
 2. Vous devez donc vous inscrire sur le site web de Shodan et obtenir une clé API  _[Documentation](https://developer.shodan.io/)_
@@ -34,7 +34,7 @@ Il fournit des informations telles que le pays, la ville, l'organisation, les do
 
 7. Les résultats de la recherche s'afficheront sous forme de texte.
 
-# Fonctionnalités
+## Fonctionnalités
 Le programme offre les fonctionnalités suivantes :
 
 * Recherche par adresse IP ou nom de domaine.
@@ -43,10 +43,10 @@ Le programme offre les fonctionnalités suivantes :
 * Bouton pour ajouter les résultats de la recherche aux favoris.
 * Gestion des erreurs pour les adresses IP et les noms de domaine incorrects.
 
-# Dépendances
+## Dépendances
 Le programme utilise l'API Shodan pour effectuer les recherches. 
 
-# Crédits
+## Crédits
 Le programme a été développé entièrement par Lefranc Nicolas avec l'aide de l'API Shodan.
 
-Crée en 2021.
+Crée en 2022.
