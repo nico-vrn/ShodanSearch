@@ -31,8 +31,8 @@ function rechercher(){ //fonction de recherche
     //console.log("recherche en cours");
     recherche=document.getElementById("champs_recherche").value;
     var url = "https://api.shodan.io/shodan/host/search?" + key + "&query=" + recherche + "&facets=country";
-    var url2="https://api.shodan.io/shodan/host/search?key=gFBcaogOaUPDCRBk233ljdeZ0ihfD7Fm&query=country:france&facets=country"
-    var url3="https://api.shodan.io/shodan/host/count?key=gFBcaogOaUPDCRBk233ljdeZ0ihfD7Fm&query=port:22&facets=org,os"; // fonctionne retourne le nb de host par pays
+    var url2="https://api.shodan.io/shodan/host/search?key=${apiKey}&query=country:france&facets=country"
+    var url3="https://api.shodan.io/shodan/host/count?key=${apiKey}&query=port:22&facets=org,os"; // fonctionne retourne le nb de host par pays
     if(recherche[0]==undefined){ //si la recherche est vide
       document.getElementById('empty').textContent="le champs de recherche est vide";
     }
