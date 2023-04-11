@@ -1,5 +1,12 @@
 # ShodanSearch
 
+<a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -46,7 +53,32 @@ Le programme offre les fonctionnalités suivantes :
 ## Dépendances
 Le programme utilise l'API Shodan pour effectuer les recherches. 
 
-## Crédits
-Le programme a été développé entièrement par Lefranc Nicolas avec l'aide de l'API Shodan.
+## Contribution
 
+Les contributions sont les bienvenues ! Pour contribuer, suivez les étapes suivantes :
+
+1. Forkez le dépôt.
+2. Créez une nouvelle branche avec un nom descriptif pour votre fonctionnalité ou correctif.
+3. Faites vos modifications et soumettez-les avec un commit.
+4. Créez une pull request vers la branche `main` du dépôt d'origine.
+
+## Auteurs
+
+- Lefranc Nicolas, [@nico-vrn](https://github.com/nico-vrn)
 Crée en 2022.
+
+## Licence
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/nico-vrn/ShodanSearch?style=for-the-badge
+[contributors-url]: https://github.com/nico-vrn/ShodanSearch/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nico-vrn/ShodanSearch.svg?style=for-the-badge
+[forks-url]: https://github.com/nico-vrn/ShodanSearch/network/members
+[stars-shield]: https://img.shields.io/github/stars/nico-vrn/ShodanSearch.svg?style=for-the-badge
+[stars-url]: https://github.com/nico-vrn/ShodanSearch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nico-vrn/ShodanSearch.svg?style=for-the-badge
+[issues-url]: https://github.com/nico-vrn/ShodanSearch/issues
